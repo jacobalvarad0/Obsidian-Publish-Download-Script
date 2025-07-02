@@ -10,8 +10,8 @@ A simple Python script to download an entire [Obsidian Publish](https://obsidian
 ## Example
 
 ```
-python download.py https://help.obsidian.md/ vault_name
-python download.py https://help.obsidian.md/ vault_name --no-photos
+python download.py <URL> <FOLDER> [--no-photos] [--no-audio-video] [--no-documents] [--threads N]
+
 ```
 
 To download the Obsidian Help site to a folder called "vault_name".
