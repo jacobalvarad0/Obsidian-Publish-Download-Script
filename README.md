@@ -7,6 +7,10 @@ A simple Python script to download an entire [Obsidian Publish](https://obsidian
 - [tqdm](https://pypi.org/project/tqdm/)
 - [requests](https://pypi.org/project/requests/)
 
+```
+pip install requests tqdm
+```
+
 ## Example
 
 ```
